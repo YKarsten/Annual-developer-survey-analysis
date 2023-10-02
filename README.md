@@ -8,8 +8,8 @@ It is part of my portfolio in data analysis. You can find the file at [insights.
 
 ## Overview
 
-This project can be viewed in three different formats.
+This project can be viewed in two different formats.
 
 > [Jupyter notebook](SO-2023-survey.ipynb)  
 > [pdf](SO-2023-survey.pdf)  
-> [HTML](SO-2023-survey.html)   
+
