@@ -10,6 +10,6 @@ It is part of my portfolio in data analysis. You can find the file at [insights.
 
 This project can be viewed in three different formats.
 
-> Jupyter notebook (ipynb)
-> pdf
-> HTML
+> Jupyter notebook (ipynb)  
+> pdf  
+> HTML  
