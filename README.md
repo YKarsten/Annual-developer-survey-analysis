@@ -63,7 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](license.txt) 
 # References
 The survey data can be openly accessed via [insights.stackoverflow.com/survey](https://insights.stackoverflow.com/survey)
 
-
-> Jupyter notebook (ipynb)  
-> pdf  
-> HTML  
