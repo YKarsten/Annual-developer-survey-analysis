@@ -45,7 +45,8 @@ It is recommended to `Run all cells` as this ensures all cells to execute proper
 
 3. **README.md:** Instructions on how to get started, install dependencies, and use the Jupyter notebook.
 
-4. **/stack-overflow-developer-survey-2023::** Schema of the survey listing question id, question name and question text body. 
+4. - **/stack-overflow-developer-survey-2023/so_survey_2023.pdf** Survey textbody that people filled out.
+   - **/stack-overflow-developer-survey-2023/survey_results_schema.csv** Schema of the survey listing question id, question name and question text body.
 
 # Dependencies
 - **Python:** Version 3.10.12
