@@ -25,8 +25,8 @@ The Stack Overflow team meticulously curates and cleans the survey data, making 
 
 # Installation
 
-You can view a rendered version of the notebook [here](SO-2023-survey.ipynb).  
-Or a pdf version of the notebook [here](SO-2023-survey.pdf)
+You can view a rendered version of the notebook [here](youtube.ipynb).  
+Or a pdf version of the notebook [here]()
 
 ### Prerequisites
 - **Python:** Ensure that Python is installed on your machine. You can download it from [python.org](https://www.python.org/).
@@ -35,7 +35,7 @@ Or a pdf version of the notebook [here](SO-2023-survey.pdf)
   pip install jupyter lab
 - **External Libraries:** Use `pip install` for library installation.
   ```bash
-  pip install pandas numpy matplotlib ipywidgets scipy
+  pip install pandas numpy matplotlib seaborn IPython
 
 ### Steps  
 1. **Download:** Download the Jupyter notebook file [SO-2023-survey.ipynb](SO-2023-survey.ipynb) from this repository to your local machine.
